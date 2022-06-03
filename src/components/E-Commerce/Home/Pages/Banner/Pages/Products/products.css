@@ -1,0 +1,28 @@
+.bannerProduct{
+    margin-left: 250px;
+}
+.bannerProduct ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin-top: 20px;
+}
+
+.bannerProduct ul li{
+    width: 98px;
+    height: 120px;
+    background-color: white;
+    padding: 8px;
+    margin-right: 10px;
+}
+
+.bannerProduct ul li img{
+    width: 90px;
+    height: 78px;
+}
+
+.bannerProduct ul li p{
+    text-align: center;
+    margin-top: 7px;
+}

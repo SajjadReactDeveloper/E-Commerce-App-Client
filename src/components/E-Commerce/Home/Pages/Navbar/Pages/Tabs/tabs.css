@@ -1,0 +1,26 @@
+.tabs{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.tabs ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+
+.tabs ul li{
+    margin-right: 30px;
+}
+
+.tabs ul li a{
+    text-decoration: none;
+    color: #74788d;
+}
+
+.tabs ul li:hover a{
+    color: black
+}

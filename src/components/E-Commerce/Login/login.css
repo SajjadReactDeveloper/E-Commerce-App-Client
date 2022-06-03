@@ -1,0 +1,37 @@
+.separator {
+    width: 100%;
+    text-align: center;
+    border-bottom: 1px solid rgb(155, 155, 155);
+    line-height: 0.1em;
+    margin: 10px 0 20px;
+}
+
+.separator span {
+    background: #fff;
+    padding: 0 10px;
+}
+
+.iconn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.itm {
+    margin-right: 10px;
+    border-radius: 50%;
+    padding: 4px;
+    color: white;
+}
+
+.fb {
+    background-color: #4267B2;
+}
+
+.gog {
+    background-color: #db4a39;
+}
+
+.tw {
+    background-color: #00acee;
+}
